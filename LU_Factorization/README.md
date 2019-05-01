@@ -5,4 +5,4 @@ A - coeffiecient matrix (MUST BE SQUARE)
 ## Outputs
 L - lower triangular matrix\
 U - upper triangular matrix\
-P - pivot matrix\
+P - pivot matrix

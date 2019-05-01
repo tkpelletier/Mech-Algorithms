@@ -5,9 +5,9 @@ func - function being exaluated in terms of x (start with "@(x)")\
 xl - lower bound for estimate\
 xu - upper bound for estimate\
 es - desired relative error (stopping criteria in percent) (OPTIONAL)\
-maxiter - desired number of iterations (OPTIONAL)\
+maxiter - desired number of iterations (OPTIONAL)
 ## Ouputs
 root - estimated location of root between specified interval\
 fx - value of the function at the estimated root\
 ea - relative error calculated (Not calculated if iter = 1)\
-iter - number of iterations performed for estimate\
+iter - number of iterations performed for estimate

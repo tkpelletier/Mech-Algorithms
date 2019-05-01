@@ -3,6 +3,6 @@ luFactor.m performs LU Factorization with partial pivotong on a square matrix. T
 ## Inputs
 A - coeffiecient matrix (MUST BE SQUARE)
 ## Outputs
-L - lower triangular matrix
-U - upper triangular matrix
-P - pivot matrix
+L - lower triangular matrix\
+U - upper triangular matrix\
+P - pivot matrix\

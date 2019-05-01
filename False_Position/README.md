@@ -1,7 +1,7 @@
 ### falsePosition.m
 falsePosition.m uses the False Position numerical method to estimate the root to a function. The function includes stopping criteria for number of iterations and approximate error.
 ## INPUTS
-func - function being exaluated in terms of x (start with "@(x)")
+func - function being exaluated in terms of x (start with "@(x)")\
 xl - lower bound for estimate
 xu - upper bound for estimate
 es - desired relative error (stopping criteria in percent) (OPTIONAL)
